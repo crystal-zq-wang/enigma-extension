@@ -27,7 +27,7 @@
 "content_scripts":[
     {
       "matches":[
-        "https://www.yourhtmlsource.com/myfirstsite/myfirstpage.html"
+        "<insert url here>"
       ],
       "js": ["content.js"]
     }
